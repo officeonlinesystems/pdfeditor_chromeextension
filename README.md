@@ -1,2 +1,4 @@
-# pdfeditor_chromeextension
-Create, edit, view and annotate PDF files
+LibreOffice Editor
+========================
+
+Chrome Extension for creating and editing documents 
